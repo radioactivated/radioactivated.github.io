@@ -2,6 +2,12 @@ body {
 	background-color:lightblue;
 }
 
+
+.code {
+	font-family:"Courier";
+	background-color:white;
+}
+
 p {
 	font-family:"Arial";
 }
@@ -17,4 +23,8 @@ h1 {
 
 h2 {
 	font-family:"Arial";
+}
+
+a {
+	color:green
 }
